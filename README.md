@@ -1,0 +1,1 @@
+This example demonstrates a common error in Python: forgetting to close a file after opening it. This can lead to resource leaks and potential data corruption. The solution shows proper file handling using the `with` statement or explicitly closing the file.
